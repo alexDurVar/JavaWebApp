@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Servlets/CancelarFactura2.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/FrmListarClientes.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/AccesoDatos/ADDetalleFactura.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Servlets/CrearModificarTrabajador.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/AccesoDatos/ADTrabajador.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Servlets/EliminarCliente.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/index.html</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/FrmListarTrabajador.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/Frm_Trabajador.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/FrmListarEncabezadoFactura.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Servlets/EliminarDetalle.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Servlets/Facturar2.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/AccesoDatos/ADEncabezadoFactura.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/Frm_Clientes.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/FrmVentasMes.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/LogicaNegocio/LNEncabezadoFactura.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Entidades/EncabezadoFactura.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/FrmListarProductos.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/FrmListarDevoluciones.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/Frm_ListarFacturas.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Servlets/EliminarTrabajador.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Servlets/CrearModificarCliente.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/src/java/Entidades/DetallesFactura.java</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/FrmListarDetalles.jsp</file>
+            <file>file:/C:/Users/Telyman/Downloads/EjemploWebCapas/web/Frm_facturar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
